@@ -1,0 +1,2 @@
+# Tarea #1
+En esta tarea se realiza el diseño de un controlador para un cajero automático, el cual va a poder realizar retiros y depósitos, además de tener las funcionalidades de un cajero, como lo son recibir un pin ingresado por el usuario y verificar que este sea el correcto, si se falla el pin 3 veces el cajero entrará en un estado de bloqueo y además también en un retiro verificará si el balance inicial de la cuenta es mayor que el monto, ya que si el monto es mayor que el balance inicial se debe de activar una salida llamada fondos insuficientes.
