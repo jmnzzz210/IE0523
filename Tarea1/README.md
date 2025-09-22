@@ -14,7 +14,7 @@ A la hora de realizar el diseño se utilizó el siguiente diagrama de bloques:
 Además, el diagrama ASM del controlador:
 
 <p align="center">
-  <img src="./images/diagrama_asm.svg" alt="Diagrama ASM">
+  <img src="./images/diagrama_asm.png" alt="Diagrama ASM">
 </p>
 
 En la colocación del código, se colocaron los siguientes estados:
