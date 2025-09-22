@@ -46,7 +46,8 @@ cd Tarea1
 make
 ```
 A continuación se encuentra el reporte, en donde se puede encontrar el plan de pruebas y los resultados que se obtuvieron
-<a href="https://github.com/jmnzzz210/IE0523/raw/main/docs/reporte.pdf" target="_blank">
+<a href="https://jmnzzz210.github.io/IE0523/Tarea1/docs/reporte.pdf" target="_blank">
    Reporte descripción conductual cajero automático
 </a>
+
 
