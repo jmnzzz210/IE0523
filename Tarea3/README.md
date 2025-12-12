@@ -32,7 +32,7 @@ En la figura 1 se presenta el diagrama asm de la máquina de estados realizada p
 
 <div align="center">
   
-![Diagrama de componentes del sistema](images/diagrama_asm.svg "Arquitectura del sistema completo")
+![Diagrama de componentes del sistema](images/asm.png "Arquitectura del sistema completo")
 
 *Figura 1: Diagrama asm del controlador para CPU*
   
