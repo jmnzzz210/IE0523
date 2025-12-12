@@ -42,8 +42,8 @@ Para poder ejecutar la simulación se presentará a continuación la manera de p
 ```bash
 git clone https://github.com/jmnzzz210/IE0523
 cd IE0523
-cd src 
-cd Tarea1
+cd Tarea1 
+cd src
 make
 ```
 A continuación se encuentra el reporte, en donde se puede encontrar el plan de pruebas y los resultados que se obtuvieron
