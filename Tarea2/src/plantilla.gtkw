@@ -1,0 +1,66 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Fri Sep 26 23:10:16 2025
+[*]
+[dumpfile] "/home/brandon/UCR/Digitales2/Tarea2/resultados.vcd"
+[dumpfile_mtime] "Fri Sep 26 23:09:37 2025"
+[dumpfile_size] 272347
+[savefile] "/home/brandon/UCR/Digitales2/Tarea2/plantilla.gtkw"
+[timestart] 2738
+[size] 1854 1001
+[pos] -27 -24
+*-8.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cajero_tb.
+[treeopen] cajero_tb.controlador_inst.
+[sst_width] 278
+[signals_width] 254
+[sst_expanded] 1
+[sst_vpaned_height] 297
+@28
+cajero_tb.clk
+cajero_tb.controlador_inst.reset
+@200
+-Entradas para el controlador
+@28
+cajero_tb.controlador_inst.tarjeta_recibida
+@22
+cajero_tb.pin_correcto[15:0]
+@28
+cajero_tb.controlador_inst.tipo_trans
+@200
+-Dígitos del pin
+@22
+cajero_tb.digito[3:0]
+@28
+cajero_tb.digito_stb
+@200
+-PIn ingresado
+@22
+cajero_tb.controlador_inst.pin_ingresado[15:0]
+@200
+-Balance
+@24
+cajero_tb.controlador_inst.balance_inicial[63:0]
+@200
+-Monto a retirar
+@24
+cajero_tb.controlador_inst.monto[31:0]
+@28
+cajero_tb.controlador_inst.monto_stb
+@200
+-Salida controlador
+@24
+cajero_tb.controlador_inst.balance_actualizado[63:0]
+@28
+cajero_tb.controlador_inst.balance_stb
+cajero_tb.controlador_inst.entregar_dinero
+cajero_tb.controlador_inst.fondos_insuficientes
+cajero_tb.controlador_inst.pin_incorrecto
+cajero_tb.advertencia
+cajero_tb.controlador_inst.bloqueo
+@200
+-Estado
+@25
+cajero_tb.controlador_inst.state[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
