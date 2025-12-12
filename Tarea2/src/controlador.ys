@@ -1,0 +1,18 @@
+read_verilog controlador.v 
+
+hierarchy -check -top controlador
+
+proc; opt; fsm; opt; memory; opt
+
+techmap; opt
+
+dfflibmap -liberty ./cmos_cells.lib 
+
+abc -liberty ./cmos_cells.lib
+
+show
+
+clean
+
+
+write_verilog contr_synth.v
