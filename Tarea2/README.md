@@ -12,7 +12,8 @@ Para facilitar la ejecución de los resultados se realizó un makefile, el cual 
 ```bash
 git clone https://github.com/jmnzzz210/IE0523
 cd IE0523
-cd Tarea1
+cd Tarea2
+cd src
 make
 ```
 
